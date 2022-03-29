@@ -1,0 +1,68 @@
+﻿[
+  {
+    "FirstName": "Asset",
+    "LastName": "Aden",
+    "MiddleName": "Kairatuly",
+    "ID": 54,
+    "TIN": "42069",
+    "DateCreated": "1998-12-25T00:00:00",
+    "CreatorID": 23,
+    "DateEdited": "2021-12-25T00:00:00",
+    "EditorID": 1
+  },
+  {
+    "FirstName": "Assel",
+    "LastName": "Aden",
+    "MiddleName": "Kairatovna",
+    "ID": 53,
+    "TIN": "18021",
+    "DateCreated": "1992-02-18T00:00:00",
+    "CreatorID": 23,
+    "DateEdited": "2022-02-18T00:00:00",
+    "EditorID": 1
+  },
+  {
+    "FirstName": "Richard",
+    "LastName": "Son",
+    "MiddleName": null,
+    "ID": 50,
+    "TIN": "07092",
+    "DateCreated": "2002-09-07T00:00:00",
+    "CreatorID": 23,
+    "DateEdited": "2021-09-07T00:00:00",
+    "EditorID": 1
+  },
+  {
+    "FirstName": "Kseniya",
+    "LastName": "Leiko",
+    "MiddleName": "Alekseevna",
+    "ID": 57,
+    "TIN": "27092",
+    "DateCreated": "2004-09-27T00:00:00",
+    "CreatorID": 23,
+    "DateEdited": "2021-09-27T00:00:00",
+    "EditorID": 1
+  },
+  {
+    "FirstName": "Natalia",
+    "LastName": "Leiko",
+    "MiddleName": "Viktorovna",
+    "ID": 59,
+    "TIN": "14051",
+    "DateCreated": "1977-05-14T00:00:00",
+    "CreatorID": 23,
+    "DateEdited": "2021-05-14T00:00:00",
+    "EditorID": 1
+  },
+  {
+    "FirstName": "Batyy",
+    "LastName": "Otan",
+    "MiddleName": "Erzhanuly",
+    "ID": 70,
+    "TIN": "01061",
+    "DateCreated": "1999-06-01T00:00:00",
+    "CreatorID": 23,
+    "DateEdited": "2021-06-01T00:00:00",
+    "EditorID": 1
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CompanyName": "Constituion of Nur Otan",
+    "ID": 2,
+    "TIN": "002",
+    "DateCreated": "1993-01-28T00:00:00",
+    "CreatorID": 1,
+    "DateEdited": "1995-08-30T00:00:00",
+    "EditorID": 1
+  },
+  {
+    "CompanyName": "Jusan Bank",
+    "ID": 3,
+    "TIN": "003",
+    "DateCreated": "1992-01-17T00:00:00",
+    "CreatorID": 1,
+    "DateEdited": "2021-09-06T00:00:00",
+    "EditorID": 1
+  },
+  {
+    "CompanyName": "Burger King",
+    "ID": 4,
+    "TIN": "004",
+    "DateCreated": "2012-05-01T00:00:00",
+    "CreatorID": 1,
+    "DateEdited": "2020-12-02T00:00:00",
+    "EditorID": 1
+  },
+  {
+    "CompanyName": "Altyn orda",
+    "ID": 5,
+    "TIN": "005",
+    "DateCreated": "2012-01-01T00:00:00",
+    "CreatorID": 1,
+    "DateEdited": "2021-01-01T00:00:00",
+    "EditorID": 1
+  }
+]
